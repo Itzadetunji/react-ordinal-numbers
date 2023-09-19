@@ -1,9 +1,10 @@
 {
-  "name": "@codifytools/react-npm-package-boilerplate",
+  "name": "@itzadetunji/react-ordinal-numbers",
   "version": "1.0.10",
   "description": "",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
+  "private":"false",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "start-storybook",
@@ -16,8 +17,8 @@
     "rollup",
     "boilerplate"
   ],
-  "author": "Juan Pablo Mejia Duque",
-  "repository": "codifytools/react-npm-package-boilerplate",
+  "author": "Adetunji Adeyinka",
+  "repository": "itzadetunji/react-ordinal-numbers",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=16.8.0",
